@@ -13,9 +13,12 @@ function App() {
             <h1>Leve felicidade para o mundo</h1>
             <p>Visite orfanatos e mude o dia de muitas crianças</p>
           </main>
-          <div id="location">
+          <div className="location">
             <strong>Minas gerais</strong>
             <p>Belo horizonte</p>
+          </div>
+          <div className="enter-app">
+            <a href="">{'>'}</a>
           </div>
         </div>
       </div>
